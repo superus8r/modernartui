@@ -1,0 +1,1 @@
+"# This project is intended to use as the final assignment of the course named Programming Mobile Applications for Android Handheld Systems 1 presented by Dr. Adam Porter from University of Maryland; This application showcases a modern art UI which is inspired by the works of Modern Art masters such as Piet Mondrian and Ben Nicholson." 
